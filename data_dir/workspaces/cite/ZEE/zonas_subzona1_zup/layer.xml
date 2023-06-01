@@ -1,0 +1,16 @@
+<layer>
+  <name>zonas_subzona1_zup</name>
+  <id>LayerInfoImpl-23c6d97e:1881f50ea86:-7e87</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-23c6d97e:1881f50ea86:-7e88</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-15 13:44:12.860 UTC</dateCreated>
+</layer>

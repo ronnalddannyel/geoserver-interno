@@ -1,0 +1,16 @@
+<layer>
+  <name>fbds_uso</name>
+  <id>LayerInfoImpl-660ff25b:185caa92442:-616b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-660ff25b:185caa92442:-616c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-01-19 17:04:33.698 UTC</dateCreated>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>ana_user_corpo_hidrico_uniao</name>
+  <id>LayerInfoImpl-7c59916d:186c10c83b6:-7ef2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7c59916d:186c10c83b6:-7ef3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-03-08 14:53:04.95 UTC</dateCreated>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>view_ati</name>
+  <id>LayerInfoImpl-1b0e6084:1860ceb48ca:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1b0e6084:1860ceb48ca:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-01 13:52:45.636 UTC</dateCreated>
+</layer>

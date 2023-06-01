@@ -1,0 +1,16 @@
+<layer>
+  <name>view_terras_indigenas</name>
+  <id>LayerInfoImpl--578749af:1849a3f1d42:-7f65</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--578749af:1849a3f1d42:-7f66</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-21 15:06:19.931 UTC</dateCreated>
+</layer>

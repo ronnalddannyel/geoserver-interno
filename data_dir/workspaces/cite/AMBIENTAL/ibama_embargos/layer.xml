@@ -1,0 +1,16 @@
+<layer>
+  <name>ibama_embargos</name>
+  <id>LayerInfoImpl-747b6e75:186368a1911:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-747b6e75:186368a1911:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-09 14:21:27.681 UTC</dateCreated>
+</layer>

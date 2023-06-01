@@ -1,0 +1,16 @@
+<layer>
+  <name>municipios_sedes</name>
+  <id>LayerInfoImpl-29e54383:184e75120d7:-7fee</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-29e54383:184e75120d7:-7fef</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-12-06 16:03:38.31 UTC</dateCreated>
+</layer>

@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-7c59916d:186c10c83b6:-7ef3</id>
+  <name>ana_user_corpo_hidrico_uniao</name>
+  <nativeName>ana_user_corpo_hidrico_uniao</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>ana_user_corpo_hidrico_uniao</title>
+  <keywords>
+    <string>ana_user_corpo_hidrico_uniao</string>
+    <string>features</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, &#xd;
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-61.02552795410156</minx>
+    <maxx>-59.58563232421875</maxx>
+    <miny>-0.132694453001022</miny>
+    <maxy>3.883333444595337</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-61.02552795410156</minx>
+    <maxx>-59.58563232421874</maxx>
+    <miny>-0.1326944529966499</miny>
+    <maxy>3.8833334445705425</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-660ff25b:185caa92442:-65cb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

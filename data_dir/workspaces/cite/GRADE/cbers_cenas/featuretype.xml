@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-77789d20:1877ff4eed9:-7fee</id>
+  <name>cbers_cenas</name>
+  <nativeName>cbers_cenas</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>cbers_cenas</title>
+  <keywords>
+    <string>features</string>
+    <string>cbers_cenas</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, &#xd;
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-64.82526397705078</minx>
+    <maxx>-58.886878967285156</maxx>
+    <miny>-1.591274261474609</miny>
+    <maxy>5.271845817565918</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-64.82526397705078</minx>
+    <maxx>-58.886878967285156</maxx>
+    <miny>-1.591274261429289</miny>
+    <maxy>5.2718458176484635</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-77789d20:1877ff4eed9:-7ff3</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

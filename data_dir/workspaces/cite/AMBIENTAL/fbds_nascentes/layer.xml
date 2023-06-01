@@ -1,0 +1,16 @@
+<layer>
+  <name>fbds_nascentes</name>
+  <id>LayerInfoImpl-660ff25b:185caa92442:-6171</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-660ff25b:185caa92442:-6172</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-01-19 17:03:52.316 UTC</dateCreated>
+</layer>

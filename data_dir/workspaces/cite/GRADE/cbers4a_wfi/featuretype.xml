@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-77789d20:1877ff4eed9:-7ff0</id>
+  <name>cbers4a_wfi</name>
+  <nativeName>cbers4a_wfi</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>cbers4a_wfi</title>
+  <keywords>
+    <string>features</string>
+    <string>cbers4a_wfi</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, &#xd;
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-71.30706024169922</minx>
+    <maxx>-52.42368698120117</maxx>
+    <miny>-3.763007164001465</miny>
+    <maxy>9.317235946655273</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-71.30706024169922</minx>
+    <maxx>-52.42368698120117</maxx>
+    <miny>-3.7630071639713836</miny>
+    <maxy>9.317235947713671</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-77789d20:1877ff4eed9:-7ff3</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

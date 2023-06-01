@@ -1,0 +1,16 @@
+<layer>
+  <name>view_municipios_limites</name>
+  <id>LayerInfoImpl--578749af:1849a3f1d42:-7fcb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--578749af:1849a3f1d42:-7fcc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-21 14:57:15.230 UTC</dateCreated>
+</layer>

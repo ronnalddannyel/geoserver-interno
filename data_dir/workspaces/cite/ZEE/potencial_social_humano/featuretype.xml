@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-23c6d97e:1881f50ea86:-7ea4</id>
+  <name>potencial_social_humano</name>
+  <nativeName>potencial_social_humano</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>potencial_social_humano</title>
+  <keywords>
+    <string>features</string>
+    <string>potencial_social_humano</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, &#xd;
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-64.82525634765625</minx>
+    <maxx>-58.88688278198242</maxx>
+    <miny>-1.580633163452148</miny>
+    <maxy>5.271841526031494</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-64.82525634765625</minx>
+    <maxx>-58.886882781982415</maxx>
+    <miny>-1.5806331634070363</miny>
+    <maxy>5.2718415261140406</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-23c6d97e:1881f50ea86:-7ec3</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

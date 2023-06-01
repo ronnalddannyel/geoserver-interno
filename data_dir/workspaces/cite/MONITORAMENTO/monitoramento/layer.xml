@@ -1,0 +1,16 @@
+<layer>
+  <name>monitoramento</name>
+  <id>LayerInfoImpl--19cc050b:1865a687f35:-7dee</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--19cc050b:1865a687f35:-7def</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-16 15:01:55.875 UTC</dateCreated>
+</layer>

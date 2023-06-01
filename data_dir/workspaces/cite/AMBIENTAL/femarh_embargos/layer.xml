@@ -1,0 +1,16 @@
+<layer>
+  <name>femarh_embargos</name>
+  <id>LayerInfoImpl--60096eec:188538251c3:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--60096eec:188538251c3:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-25 15:44:12.184 UTC</dateCreated>
+</layer>

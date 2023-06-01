@@ -1,0 +1,16 @@
+<layer>
+  <name>ati</name>
+  <id>LayerInfoImpl-29e54383:184e75120d7:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-29e54383:184e75120d7:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-12-06 15:09:33.114 UTC</dateCreated>
+</layer>

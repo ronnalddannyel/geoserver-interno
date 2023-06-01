@@ -1,0 +1,17 @@
+<layer>
+  <name>estado_limites</name>
+  <id>LayerInfoImpl--60096eec:188538251c3:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--60096eec:188538251c3:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-25 15:41:20.167 UTC</dateCreated>
+  <dateModified>2023-05-25 15:41:35.578 UTC</dateModified>
+</layer>

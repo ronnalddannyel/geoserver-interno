@@ -1,0 +1,16 @@
+<layer>
+  <name>anm_minerarios_ativos</name>
+  <id>LayerInfoImpl-660ff25b:185caa92442:-6177</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-660ff25b:185caa92442:-6178</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-01-19 17:02:49.887 UTC</dateCreated>
+</layer>

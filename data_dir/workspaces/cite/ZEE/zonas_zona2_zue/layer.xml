@@ -1,0 +1,16 @@
+<layer>
+  <name>zonas_zona2_zue</name>
+  <id>LayerInfoImpl-23c6d97e:1881f50ea86:-7e81</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-23c6d97e:1881f50ea86:-7e82</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-15 13:44:47.836 UTC</dateCreated>
+</layer>

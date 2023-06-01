@@ -1,0 +1,16 @@
+<layer>
+  <name>iphan_sitios_arqueol_pto</name>
+  <id>LayerInfoImpl-7f9f2ee:185e3a081d8:-78a9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7f9f2ee:185e3a081d8:-78aa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-01-24 14:32:15.605 UTC</dateCreated>
+</layer>

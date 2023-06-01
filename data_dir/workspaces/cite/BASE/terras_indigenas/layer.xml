@@ -1,0 +1,16 @@
+<layer>
+  <name>terras_indigenas</name>
+  <id>LayerInfoImpl-3c3edf59:18602a79d35:-7247</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c3edf59:18602a79d35:-7248</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-01-30 17:06:27.901 UTC</dateCreated>
+</layer>

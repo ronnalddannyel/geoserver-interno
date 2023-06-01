@@ -1,0 +1,16 @@
+<layer>
+  <name>vul_nat_perda_solo_geomorfologia_2018</name>
+  <id>LayerInfoImpl-23c6d97e:1881f50ea86:-7e95</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-23c6d97e:1881f50ea86:-7e96</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-15 13:42:51.932 UTC</dateCreated>
+</layer>

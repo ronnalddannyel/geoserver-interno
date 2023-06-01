@@ -1,0 +1,16 @@
+<layer>
+  <name>ati_4mf</name>
+  <id>LayerInfoImpl-77789d20:1877ff4eed9:-7ff8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-77789d20:1877ff4eed9:-7ff9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-04-14 13:51:30.722 UTC</dateCreated>
+</layer>
